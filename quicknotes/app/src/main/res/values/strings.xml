@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FTP</string>
+    <string name="app_notes">Notes</string>
+    <string name="icons_label">Icons -</string>
+    <string name="designed_by">Designed -</string>
+    <string name="illustration_by">Illustration -</string>
+    <string name="redesigned_by">Redesigned -</string>
+    <string name="made_by">Made By</string>
+    <string name="fonts_label">Fonts -</string>
+    <string name="dot_button_content_description">More options</string>
+</resources>
